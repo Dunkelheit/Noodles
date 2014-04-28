@@ -1,0 +1,71 @@
+%^HWHITE%^1. Level one header%^RESET%^
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In odio odio,
+    eleifend id egestas sed, laoreet vel leo.
+
+%^HWHITE%^1.1. Level two header%^RESET%^
+
+    Aliquam iaculis erat a lectus pretium adipiscing. Vestibulum leo lacus,
+    fringilla eget congue rhoncus, eleifend at sapien. Vestibulum diam urna,
+    tempor non lobortis eget, blandit at sem.
+
+    - Sed iaculis rutrum urna quis laoreet. Aenean nec nunc lorem, et sagittis
+      enim. Suspendisse potenti.
+
+    - Ut eu eros tortor. Integer placerat mi mi. Phasellus id urna vitae odio
+      faucibus laoreet non et urna.
+
+    - Nam a urna ut risus gravida tincidunt sit amet quis velit.
+
+    - Nunc eleifend dignissim ipsum, sed condimentum libero imperdiet ac.
+
+    Donec ut lacus et leo rutrum pulvinar. Pellentesque habitant morbi
+    tristique senectus et netus et malesuada fames ac turpis egestas. Aenean ac
+    dolor sed diam dapibus luctus.
+
+%^HWHITE%^1.2. Level two header%^RESET%^
+
+%^HWHITE%^1.2.1. Level three header%^RESET%^
+
+    Nunc pellentesque, urna quis egestas semper, magna tellus iaculis neque, at
+    ullamcorper nulla dolor a sem. Etiam rhoncus volutpat magna et cursus.
+    Suspendisse aliquam neque nec libero fringilla dictum. In hac habitasse
+    platea dictumst.
+
+    Phasellus vitae dictum eros. Duis sollicitudin quam ac elit facilisis non
+    luctus neque vulputate. Curabitur id urna dolor. Nunc dui diam, condimentum
+    ut convallis vitae, tincidunt nec arcu. Integer ac velit eu diam posuere
+    viverra.
+
+%^HWHITE%^1.2.2. Level three header%^RESET%^
+
+    Fusce in risus ut massa suscipit ullamcorper. Curabitur semper gravida elit
+    ac elementum. Mauris ut magna turpis. Vestibulum vitae neque et massa
+    blandit lacinia.
+
+    Ut ut eros eu felis elementum tristique. Aliquam euismod elementum risus,
+    feugiat elementum lacus convallis vitae. Nulla posuere enim nec nisi
+    pellentesque quis ullamcorper nunc posuere. Donec dui tellus, condimentum
+    sit amet pretium non, cursus et erat.
+
+    1. Nam ultrices, urna non adipiscing pharetra.
+
+    2. Magna libero tincidunt eros, eget ornare dui justo nec lorem.
+
+    3. Vivamus at velit ante.
+
+    4. Nunc tincidunt, sapien ut feugiat blandit, velit lorem imperdiet nulla,
+       ut blandit velit sem at mauris. Quisque varius elementum metus.
+
+    5. Sed egestas nunc tincidunt quis. Nullam cursus laoreet massa et
+       fermentum.
+
+%^HWHITE%^2. Level one header%^RESET%^
+
+    Nulla eros tortor, egestas id tincidunt ut, blandit nec velit. Quisque
+    vitae lacus lectus. Cras ornare nibh vel nunc aliquet facilisis.
+
+    Phasellus gravida velit vitae enim tincidunt scelerisque. Nullam tellus
+    neque, vehicula a dapibus eu, pharetra quis enim. Proin in quam erat.
+    Maecenas justo magna, gravida vitae semper consectetur, interdum ac tortor.
+    Sed in magna non erat vehicula bibendum.

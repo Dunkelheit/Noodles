@@ -1,0 +1,22 @@
+{
+  "name": "Noodles",
+  "version": "0.0.1",
+  "description": "A MUD engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MUD"
+  ],
+  "author": {
+    "name": "Arturo Martinez",
+    "email": "dunkelheit@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^1.2.4",
+    "async": "^0.7.0",
+    "underscore": "^1.6.0"
+  }
+}

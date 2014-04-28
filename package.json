@@ -9,14 +9,23 @@
   "keywords": [
     "MUD"
   ],
-  "author": {
-    "name": "Arturo Martinez",
-    "email": "dunkelheit@gmail.com"
-  },
+  "author": "Arturo Martinez <dunkelheit@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "bluebird": "^1.2.4",
     "async": "^0.7.0",
     "underscore": "^1.6.0"
-  }
+  },
+  "directories": {
+    "doc": "doc"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dunkelheit/Noodles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dunkelheit/Noodles/issues"
+  },
+  "homepage": "https://github.com/Dunkelheit/Noodles"
 }
